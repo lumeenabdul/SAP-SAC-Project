@@ -19,8 +19,10 @@ Using sample sales data, I created an interactive dashboard that shows:
 ## 🌎 Business Scenario
 Imagine a retail business operating in states like **California, Nevada, and Oregon**. This dashboard helps identify which products are performing well, where gross margin is falling, and how sales are evolving year by year — enabling better decision-making.
 
-## 📸 Dashboard Snapshot
-dashboard_salesdata.png
+## 📸 Dashboard- Sales Data
+<img width="1866" height="851" alt="Screenshot 2025-07-03 152652" src="https://github.com/user-attachments/assets/695be197-8b1e-4b58-a5e0-3b6cb3b5e918" />
+
+
 
 ## 🌟 Summary of Insights
 
